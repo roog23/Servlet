@@ -1,5 +1,3 @@
-# Servlet
-Servlet 정리
 Servlet
 =
 웹 기반의 요청에 대한 동적인 처리가 가능한 하나의 클래스   
